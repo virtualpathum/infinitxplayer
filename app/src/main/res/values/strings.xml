@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">InfinitX Player</string>
+    <string name="notification_channel_name">player_channel</string>
+    <string name="notification_channel_description">infinitx player channel</string>
 </resources>
